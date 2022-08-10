@@ -1,7 +1,3 @@
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
 ### Привет. Меня зовут Константин 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я.Практикум+студент)](https://git.io/typing-svg)
 ### 👨🏻‍💻 &nbsp;Обо Мне:
