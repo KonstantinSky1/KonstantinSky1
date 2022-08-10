@@ -1,3 +1,4 @@
+<span style="color: green"> Some green text </span>
 ### Привет. Меня зовут Константин 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я.Практикум+студент)](https://git.io/typing-svg)
 ### 👨🏻‍💻 &nbsp;Обо Мне:
